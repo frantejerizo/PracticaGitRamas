@@ -8,3 +8,8 @@ body {
     flex-grow: 1;
   }
   
+  .imgCarousel
+  {
+    height: 500px;
+    object-fit: cover;
+  }
