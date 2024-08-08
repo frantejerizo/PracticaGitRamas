@@ -13,3 +13,12 @@ body {
     height: 500px;
     object-fit: cover;
   }
+
+  .divHeading
+  {
+    height: 130px;
+    width: 130px;
+    border-radius: 100%;
+    background-color: aliceblue;
+
+  }
